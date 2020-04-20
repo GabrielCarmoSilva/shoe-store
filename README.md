@@ -12,4 +12,4 @@ Use <b>npm start</b> para iniciar a aplicação. [PT-BR]
 
 # Back-end
 The back-end is in the repository shoe-store-backend of this profile. [EN] <br><br>
-O back-end está no repistório shoe-store-backend desse perfil. [PT-BR]
+O back-end está no repositório shoe-store-backend desse perfil. [PT-BR]
