@@ -1,0 +1,23 @@
+.crement-button {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.quant-box {
+    padding: 40px;
+    background-color: #fff;
+}
+
+.buttons {
+    margin-top: 10px;
+}
+
+.update-button {
+    text-decoration: none;
+    color: #fff;
+}
+
+.update-button:hover {
+    text-decoration: none;
+    color: #fff;
+}

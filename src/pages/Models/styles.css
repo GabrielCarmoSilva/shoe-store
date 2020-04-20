@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+.list-text {
+    font: 400 20px 'Roboto';
+    background-color: #f0f0f0;
+}
+
+.item {
+    padding-bottom: 40px;
+    background-color: #f7f7f7;
+    text-decoration: none;
+    color: #000;
+}
+
+.item:hover {
+    text-decoration: none;
+    color: #000;
+}
